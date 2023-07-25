@@ -1,9 +1,9 @@
-function MyOrder() {
+function MyAccount() {
   return (
     <div className="bg-red-100">
-      MyOrder
+      MyAccount
     </div>
   )
 }
 
-export default MyOrder
+export default MyAccount
